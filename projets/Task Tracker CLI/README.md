@@ -1,9 +1,6 @@
 #  Task Tracker
 
-## reference
-[Task Tracker](https://roadmap.sh/projects/task-tracker)
-
-[roadmap.sh](https://roadmap.sh/)
+This app is a project from roadmap.sh: https://roadmap.sh/projects/task-tracker
 
 ## Get Started
 
@@ -68,4 +65,5 @@ task-cli mark_in_progress x
 
 ## reference
 [Task Tracker](https://roadmap.sh/projects/task-tracker)
+
 [roadmap.sh](https://roadmap.sh/)
