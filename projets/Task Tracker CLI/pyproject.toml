@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "task-cli"
+version = "0.0.1"
+description = "A simple task tracker"
+
+[tool.poetry.scripts]
+task-cli = "task_cli.__main__:main"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
